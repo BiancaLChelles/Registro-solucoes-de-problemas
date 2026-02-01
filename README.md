@@ -41,11 +41,7 @@ Se o método tradicional falha, eu projeto um método novo, crio a **terceira vi
 * **Execução**: Fiz o reset físico para limpar a estática e configurei o Gerenciador de Dispositivos para impedir o Windows de desligar o adaptador de rede.
 * **O Resultado**: Máquina estável. Dominei o problema manualmente em vez de depender de atalhos ou assistência externa.
 
-#### Otimização de Conectividade (Ajustes Finos)
-* **O Cenário**: Sistema lento e rede engasgando, tirando a fluidez do trabalho diário.
-* **O "Porquê"**: Investigação para separar o que era oscilação de sinal externo e o que era configuração interna travando o desempenho.
-* **Execução**: Ajuste direto nos drivers e nas configurações que o Windows esconde para priorizar bateria sobre performance.
-* **O Resultado**: Sistema limpo e rede voando. Provei que entender o "porquê" faz o hardware entregar tudo o que ele realmente foi feito para entregar.
+
 
 ---
 
