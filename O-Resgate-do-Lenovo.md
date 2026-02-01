@@ -1,7 +1,6 @@
 # O Resgate do Lenovo S145: Do "Lixo" à Performance 
 
-> "Me orgulho de não ter desistido do aparelho. 
-Eu descobri o problema, estudei sobre ele e consegui trazer o notebook de volta à vida, sozinha."
+> "Descobri o problema, estudei sobre ele e consegui trazer o notebook de volta à vida, sozinha."
 
 ###  O Cenário
 Meu próprio notebook de estudos estava praticamente inutilizável. O sistema Windows estava corrompido, apresentando lentidão extrema, além de falhas constantes no Wi-Fi e no Bluetooth. O aparelho chegou a ficar parado por quase um ano, pois eu acreditava que não seria capaz de consertá-lo sem uma assistência técnica.
