@@ -29,19 +29,19 @@ Se o método tradicional falha, eu projeto um método novo, crio a **terceira vi
 
 ##  Casos de Destaque (Troubleshooting Logs)
 
-####  O Enigma da Câmera Bugada (Comunicação Adaptativa)
+#### O Enigma da Câmera Bugada (Comunicação Adaptativa)
 * **O Cenário**: Atendimento de uma adolescente com a câmera travada e uma barreira enorme na comunicação técnica padrão.
 * **O "Porquê"**: Percebi que o problema da câmera era físico (hardware), mas o problema imediato era a frustração da usuária e a interrupção do contato. O manual não ia consertar a peça, mas minha estratégia ia salvar o atendimento.
 * **Execução**: Joguei o roteiro fora. Adaptei meu vocabulário e "criei" uma forma de mantermos o contato por outros meios enquanto o aparelho dela reiniciava, garantindo que ela não ficasse isolada.
 * **O Resultado**: O diagnóstico final foi assistência técnica presencial, mas o conflito de comunicação foi resolvido ali. Saímos de um "bug" humano para uma solução de continuidade, provando que suporte também é sobre conexão.
 
-####  O Resgate do Lenovo S145 (Energia e Drivers)
+#### O Resgate do Lenovo S145 (Energia e Drivers)
 * **O Cenário**: Meu notebook dando sinal de "morte": Wi-Fi sumindo do nada e instabilidade total nos drivers
 * **O "Porquê"**: Em vez de só formatar, fui entender a hierarquia. Queria saber como a BIOS e a gestão de energia do Windows estavam derrubando o hardware.
 * **Execução**: Fiz o reset físico para limpar a estática e configurei o Gerenciador de Dispositivos para impedir o Windows de desligar o adaptador de rede.
 * **O Resultado**: Máquina estável. Dominei o problema manualmente em vez de depender de atalhos ou assistência externa.
 
-#### 🌐 Otimização de Conectividade (Ajustes Finos)
+#### Otimização de Conectividade (Ajustes Finos)
 * **O Cenário**: Sistema lento e rede engasgando, tirando a fluidez do trabalho diário.
 * **O "Porquê"**: Investigação para separar o que era oscilação de sinal externo e o que era configuração interna travando o desempenho.
 * **Execução**: Ajuste direto nos drivers e nas configurações que o Windows esconde para priorizar bateria sobre performance.
