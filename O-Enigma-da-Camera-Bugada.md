@@ -1,7 +1,7 @@
 # O Enigma da Câmera Bugada: Quando a Solução é Humana
 
 ### O Cenário
-Meu primeiro dia de atendimento real na Concentrix (2022). Uma adolescente ligou da escola desesperada porque a câmera do dispositivo estava travada. Ela estava acompanhada de uma amiga, e o clima era de ansiedade e desespero total.
+Meu primeiro dia de atendimento real na Concentrix (2022). Uma adolescente entrou em contato desesperada porque a câmera do dispositivo estava travada. Ela estava acompanhada de uma amiga, e o clima era de ansiedade e desespero total.
 
 ### A Investigação (O "Porquê")
 Segui os protocolos e os testes lógicos, mas percebi que o maior "bug" ali não era o software. Era a barreira da comunicação e o medo dela de perder totalmente a funcionalidade do aparelho, de ser desconectada ou de ter que começar o atendimento todo do zero com outra pessoa. 
